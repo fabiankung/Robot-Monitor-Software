@@ -58,6 +58,6 @@
 
   Bytes 35-63 = Not used (reserved for future).
 
-6. See (https://youtu.be/5212JX8CQ5g) for a demonstration of the software with a self-balancing mobile robot.
+6. See https://youtu.be/5212JX8CQ5g for a demonstration of the software with a self-balancing mobile robot.
 
 

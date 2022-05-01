@@ -58,6 +58,6 @@ Byte 27-34 = 8-bits positive integer corresponding to on-board FFT output.
 
 Bytes 35-63 = Not used (reserved for future).
 
-6. See https://www.youtube.com/watch?v=5212JX8CQ5g for a demonstration of the software with a mobile robot.
+6. See https://www.youtube.com/watch?v=5212JX8CQ5g for a demonstration of the software with a self-balancing mobile robot.
 
 

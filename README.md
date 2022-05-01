@@ -1,6 +1,6 @@
 # Robot-Monitor-Software
 ![This is an image](/RobotMonitor_April2022.jpg)
-1. This is a Windows based software that is used to communicate with a mobile robot and display the real-time telemetry information from the robot in x-y plots, bar graphs and other formats. See the video in [youtube](https://youtu.be/5Pp6AKQ8QEY) for quick overview.
+1. This is a Windows based software that is used to communicate with a mobile robot and display the real-time telemetry information from the robot in x-y plots, bar graphs and other formats. See this video in [youtube](https://youtu.be/5Pp6AKQ8QEY) for quick overview of Version 1.54.
 
 2. The software is written in Visual Basic .NET, with Visual Studio 2019 community edition or newer version being used.
 
